@@ -35,7 +35,7 @@ This second sheet contains a dataset about various individuals, including inform
 ![image](https://github.com/user-attachments/assets/107d0f4a-62bf-4b40-82e1-118702d7ec4b)
 
 
-## Answers are provided below:						
+## Questions and Answers are provided below:						
 							
 ![image](https://github.com/user-attachments/assets/f2f16a43-8b87-4d69-8cfe-42070ef3b1fe)
 
